@@ -1,4 +1,8 @@
-six==1.16.0
+<<<<<<< HEAD
+six==1.15.3
+=======
+six==1.15.3
+>>>>>>> branch2
 sklearn==0.0
 tensorflow==2.2.0
 absl-py==0.10.0
