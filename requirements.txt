@@ -1,4 +1,4 @@
-six==1.15.1
+six==1.15.2
 sklearn==0.0
 tensorflow==2.2.0
 absl-py==0.10.0
